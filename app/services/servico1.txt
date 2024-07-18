@@ -8,3 +8,8 @@ kervini alterou para a produção, por isso fez direto no main...
 kervini alterou para a produção, por isso fez direto no main...
 
 alteracao necessaria de urgencia.
+
+git init
+git status
+git branch
+git checkout
