@@ -1,13 +1,14 @@
 alterado pela tarefa 241
 linha 1
 linha 2
-lonha 3
+
 kervini alterou para a produção, por isso fez direto no main...
 kervini alterou para a produção, por isso fez direto no main...
 kervini alterou para a produção, por isso fez direto no main...
 kervini alterou para a produção, por isso fez direto no main...
 
 alteracao necessaria de urgencia.
+
 
 git init
 git status
